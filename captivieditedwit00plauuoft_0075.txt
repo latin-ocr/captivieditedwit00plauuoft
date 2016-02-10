@@ -1,0 +1,57 @@
+11. PROSODY. 51
+
+(Berl. Phil. Woch. xvi. 847) discredits the total suppression by elision of i, ‘go,’
+in the Dramatists. e.g. Poen. 1116, Epid. 164. The Classical poets avoid the
+elision of words like sim, qui Plur„ do, re, dem, rem, &a (see Luc. Mueller Res
+Met1·.2 p. 399 for details). Plautus normally scans tum-t(u)-i9itur (see Luchs in
+Hermes, 1874, p. 105); qu(em)-ad-m0dum (perhaps qu-e‘m ᾰά modum? Mil. 186),
+e.g. Mer-c. 352 (bacch.) ; t(am)·etsi (cf. Lucil. v. 8 Μ.) ; qu(am)-ob-rem (but quam-
+nam-ob-rem, Mil. 360). Amph. 552, Pseud. 244 are in Bacchiae mette, the
+metre that permits cb‘epi (ξ 15).
+
+42. From Metrical and Prosodic Hiatus we pass to Hiatus
+proper. This is found in Plautus in various circumstances :—
+
+(3) before or after an Interjection (cf. C. F. Miiller, Plaut. Pros.
+723), e.g.
+Truc. 161 Ο J Astaphium, haud istoc modo solita es me ante
+
+a ellare.
+Meg-{³731 eu 1 hercle, mulier, multum et audax 61 mala es,
+
+Such hiatus is a feature of classica] Latin poetry also.
+
+(4) at a change of speaker, e.g.
+
+Most. 798 Ut istas remittat sibi. Ι Haud opinor.
+Pom. 698 Complexum contrectare. Ι Is, 16116, uiam.
+
+For other exanimes, see Klotz, Grundzffqe, p. 111. Of. the Greek usage,
+e.g. Soph. Ο. C'. 1757 (anap.): Πατρὸς ἡμετέρου. Ι Ἀλλ’ ού θεμιτόν. We have also
+Syllaba Anceps at a change of speaker (ξ 33).
+
+The ground for the tolerance of Hiatus and Syllaba Anceps here is the same
+as in the case of Metrical Hiatus, the pause at the close of the first speaker’s
+remark. At the end of a line a final vowel stands without necessity of elision
+though the next line begins with a vowel, because there is a marked interval
+between the end of one line and the beginning of the next. For the same
+reason a short syllable might play the part of a long syllable at the end of a line
+because the following pause made up for its defective quantity. In the middle
+of a long line, at the end of the first hemistich, there was a possibility of a break
+of the same kind, though the break was not of constant occurrence as at the
+end of the whole line, nor, when it did occur, of so marked a character. Hence
+it comes that at this part of the line we have either, on the one hand, hiatus
+and syllaba anceps, or, on the other, elision. With elision, there would be no
+perceptible break between the two halves of the line, as there would be none in
+such lines¹ as the Iambic Octonarii of Amph. 250—262‚ which describe in
+rapid narration the battle between the Thebans and the Teleboi‚ and which
+generally lack Diaeresis (iii. g 12). There is a similar break between the
+
+¹ We may compare two lines of Tennyson’s ‘ Locksley HalL’ the first without,
+the second with a break at the end of the heniistich :
+
+“Many a night from yonder ivied casement ere I went 10 rest
+Did Ι look on great Orion sloping slowly to the West.‘'
+
+4—2
+
